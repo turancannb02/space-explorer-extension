@@ -1,4 +1,14 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+      
+    </style>
+</head>
+<body>
     <h1>Privacy Policy for Space Explorer Extension</h1>
     <p><strong>Data Collection and Usage</strong></p>
     <p>The Space Explorer extension collects and stores the following user data:</p>
